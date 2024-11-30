@@ -1,0 +1,15 @@
+Project description:
+Build a web application where users can upload fitness data (e.g., steps, calories, exercise duration, etc.) from CSV
+files. The app will process and analyze the data to provide insights, such as weekly trends, average metrics, and
+health recommendations.
+
+Back-end: Python, PostgreSQL,
+- Packages: Flask, SQLAlchemy, Numpy, Pandas
+Front-end: React
+Others: Docker to containerize the entire project
+
+develop the front end
+- create an upload dropdown to upload apple health data
+-
+
+
